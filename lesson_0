@@ -1,0 +1,25 @@
+<<!DOCTYPE html>
+
+<html>
+
+<head>
+<link rel="stylesheet" href="style.css">
+<title>bmw</title>
+
+</head>
+
+<body>
+<h1>bmw cars</h1>
+<h2>bmw</h2>
+<img src="car1.png"width= "50%">
+<p>4.0-litr,twin-turbocharged <V-8></V-8> <br></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pLsEE9_nITo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.bmw.com/en/index.html">see more</a>
+
+
+
+
+
+</body>
+
+</html>
